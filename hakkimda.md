@@ -5,9 +5,9 @@ Merhaba! Ben Nehir - hobilerimi, öğrenme yolculuğumu ve kişisel gelişimle i
 ---
 
 ## 💫 Kimim Ben?
-- Doğum günüm: 21 Ocak
+- Doğum günüm: 22 Mart
 - İlgi alanlarım: Fotoğrafçılık, kitap okumak, el işleri, zaman yönetimi
-- Şehrim: Samsun Çarşamba
+- Şehrim: Tokat 
 
 ---
 
