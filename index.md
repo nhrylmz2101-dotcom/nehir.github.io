@@ -4,11 +4,10 @@ Hoş geldiniz! Bu alanda hobilerim, öğrenme yolları ve kişisel gelişimle il
 
 ---
 
-## 📚 BU HAFTANIN KİTAP ÖNERİSİ: KÜÇÜK PRENS
-- *Yazar*: Antoine de Saint-Exupéry
-- *Neden Okumalısın?* Her yaş için anlamlı dersler veriyor - dostluk, sevgi ve hayal gücü hakkında değerli mesajlar içeriyor.
-- *Nereden Alabilirsiniz?* [Amazon'da İncele](https://www.amazon.com.tr/) → bu bir affiliate link olabilir, satış olduğunda küçük komisyon alırım
-
+## Bu Hafta Konu: Kitap Önerisi
+Bugün size Küçük Prens kitabını öneriyorum - Antoine de Saint-Exupéry yazarı olan bu kitap, her yaş için değerli dersler veriyor. 
+👉 [Amazon'da İncele](https://www.amazon.com.tr/Küçük-Prens-Antoine-Saint-Exupéry/dp/9750815006/)
+İleride affiliate hesabı onaylandıktan sonra burası güncellenecek!
 ---
 
 ## ✨ YAKINDA GELEN İÇERİKLER
