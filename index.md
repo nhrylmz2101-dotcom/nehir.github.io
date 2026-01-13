@@ -11,10 +11,14 @@ Bugün size Küçük Prens kitabını öneriyorum - Antoine de Saint-Exupéry ya
 ---
 
 ## Yakında Gelecekler
-- Fotoğrafçılık için temel ipuçları
+- Evde yapabileceğin kolay el işleri
 - Zaman yönetimi yöntemleri
-
+  
 ---
+## 📸 FOTOĞRAFÇILIK İÇİN TEMEL İPUÇLARI
+- *Işık Kullanımı*: Sabah veya akşam saatlerinde çekim yapın, sert güneş ışığı hoş görünmez.
+- *Kompozisyon*: Üçlük kuralını kullanın - çektiğiniz görüntüyü 3'e bölün ve önemli parçaları kesişim noktalarına yerleştirin.
+- *Basitlik*: Fazla şey koymayın, konunuz net olsun!
 
 ## 📩 BENİMLE İLETİŞİME GEÇİN
 Sorularınız veya önerileriniz varsa bana ulaşabilirsiniz!
